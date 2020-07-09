@@ -1,7 +1,7 @@
 ---
 title:  "2020-07-09 스프링 수업 시작 및 스프링 설정"
 header:
-  teaser: "/assets/images/500x300.png"
+  teaser: ""
 categories: 
   - Spring
 tags:
