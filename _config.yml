@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Byungjoo Yang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/gream.png"
   bio              : "**코딩 노예**"
   location         : "Incheon, South Korea"
   email            : "byungjoo104@gmail.com"
