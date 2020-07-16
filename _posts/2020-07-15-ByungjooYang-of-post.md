@@ -11,7 +11,7 @@ tags:
 
 **AOP(Aspect Oriented Programming, 관점 지향 프로그래밍)**
 
- : AOP란 어플리케이션의 핵심적인 기능에서 부가적인 기능을 분리해서 Aspectㄹ는 모듈로 만들어 설계하고 개발하는 방법을 말한다.
+ : AOP란 어플리케이션의 핵심적인 기능에서 부가적인 기능을 분리해서 Aspect는 모듈로 만들어 설계하고 개발하는 방법을 말한다.
 
  AOP를 한다고 해서 자바의 기본인 OOP(Object Oriented Programming, 객체 지향 프로그래밍)을 버리는 것이 아니라
 
@@ -60,7 +60,7 @@ AOP의 원조인 AspectJ는 프록시를 사용하지 않는 대표적인 AOP �
  - 핵심 로직을 구현할 때 트랜잭션 적용이나 보안 검사와 공통 기능을 삽입할 필요가 없다.
 
 
-<div style="text-size:20px">AOP 용어</div>
+<div style="text-size:30px">AOP 용어</div>
 
  1. Target
    : 부가 기능을 부여할 대상. 핵심 기능이 담긴 클래스
