@@ -1,7 +1,7 @@
 ---
 title:  "Spring MVC"
 header:
-  teaser: ""
+  teaser: "/assets/img/gream.png"
 categories: 
   - Spring
   - MVC
@@ -141,5 +141,8 @@ public class SumController {
 	</bean>
 	
 	<bean id="" class="com.controller.SumController"></bean>
+
+	//위에 web.xml에서 2개의 servlet을 param으로 줬고 여기서 resolver와 suffix로 .jsp를 줬기 때문에
+	//다음에 있는 servlet-context.xml 에는 resolver가 필요 없다,
 
  ```
