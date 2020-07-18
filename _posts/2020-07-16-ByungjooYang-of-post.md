@@ -1,5 +1,5 @@
 ---
-title:  "spring MVC project 설정"
+title:  "Spring MVC Project 설정"
 header:
   teaser: ""
 categories: 
