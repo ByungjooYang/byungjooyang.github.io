@@ -146,3 +146,22 @@ public class SumController {
 	//다음에 있는 servlet-context.xml 에는 resolver가 필요 없다,
 
  ```
+
+**포스트 방식으로 값을 보낼 시 한글이 깨지는 경우**
+
+```ruby
+  <filter>
+  	<filter-name>encodingFilter</filter-name>
+  	<filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+  	<init-param>
+  		<param-name>encoding</param-name>
+  		<param-value>UTF-8</param-value>
+  	</init-param>
+  </filter>
+  
+  <filter-mapping>
+  	<filter-name>encodingFilter</filter-name>
+  	<url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+```
