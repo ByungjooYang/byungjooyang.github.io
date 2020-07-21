@@ -1,13 +1,11 @@
 ---
 title:  "Spring MVC"
 header:
-  teaser: "/assets/img/gream.png"
+  teaser: ""
 categories: 
   - Spring
-  - MVC
 tags:
   - Spring
-  - MVC
 ---
 
 **★ Spring MVC**

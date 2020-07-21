@@ -1,7 +1,7 @@
 ---
 title:  "Spring Mybatis"
 header:
-  teaser: "/assets/img/gream.png"
+  teaser: 
 categories: 
   - Spring
   - Mybatis
