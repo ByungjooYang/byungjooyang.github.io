@@ -4,10 +4,8 @@ header:
   teaser: ""
 categories: 
   - Spring
-  - MVC
 tags:
   - Spring
-  - MVC
 ---
 
 스프링 mvc 프로젝트를 하기위한 아주 초기의 설정을 포스팅 하겠다.
