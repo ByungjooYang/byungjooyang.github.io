@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://byungjoo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ByungjooYang/byungjoo.github.io"
-teaser                   : "/assets/img/gream.png" # e.g. "/assets/images/500x300.png"
+teaser                   : "" # e.g. "/assets/images/500x300.png"
 logo                     : "/assets/img/gream.png" #88x88
 masthead_title           : "코딩 노예 블로그"
 # breadcrumbs            : false # true, false (default)
