@@ -29,9 +29,11 @@ Useful for test or standalone environments.
 ```
 해석해 보자면 
 
-'이 클래스는 실제 커넥션 풀이 아니다; 실제 커넥션 풀 작업을 수행하지 않으며
+'이 클래스는 실제 커넥션 풀이 아니다; 
 
-단지 간단하게 full-down 커넥션 풀 작을을 대체하고, 
+실제 커넥션 풀 작업을 수행하지 않으며
+
+단지 간단하게 full-down 커넥션 풀 작업을 대체하고, 
 
 같은 표준 인터페이스를 구현한다. 그러나 매번 
 
@@ -49,7 +51,7 @@ DriverManagerDataSource의 경우 수행속도가 속도가 느리고 균일하�
 
 관련해서 포스팅을 발견해 사진을 첨부한다.
 
-<img src="/assets/img/20200805/dataSource2.png">
+<img src="/assets/img/20200805/datasource2.png">
 
 [출처][dataSource]
 
