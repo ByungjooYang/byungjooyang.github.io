@@ -24,3 +24,7 @@ dependency만 수정해주면 되는 것이 아니었나보다.
 
 <img src="/assets/img/20200804/resources.png">
 
+
+**추가**
+
+빌드패스 설정도 해주어야 한다.
