@@ -51,6 +51,8 @@ DriverManagerDataSource의 경우 수행속도가 속도가 느리고 균일하�
 
 관련해서 포스팅을 발견해 사진을 첨부한다.
 
+확인
+
 <img src="/assets/img/20200805/datasource2.png">
 
 [출처][dataSource]
