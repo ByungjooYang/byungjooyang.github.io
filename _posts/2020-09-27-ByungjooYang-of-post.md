@@ -36,9 +36,19 @@ stompclient는 내부적으로 subscribe 되고나서
 
 웹소켓의 send 메서들 호출한다.
 
-<img src="/assets/img/20200927/connecting.png">
+아래는 위의 에러가 발생하는 sock.js 의 코드이다.
 
-그런데 이 메서드를 호출할 때 상태가 CONNECTED 일때 보내지고
+```ruby
+
+w.prototype.send=function(e){
+  if("string" != typeof 3 && (e = "" + e), this.readyState === w.CONNECTING) {
+    throw new Error("InvalidStateError: The connection has not been established yet")
+  }
+}
+
+```
+
+위에서 보듯이 이 메서드를 호출할 때 상태가 CONNECTED 일때 보내지고
 
 CONNECTING 상태일 때 위의 에러를 throw 시키는 것이다.
 
