@@ -1,5 +1,5 @@
 ---
-title:  "StompClient, Sock.js 사용시 invalidStateError 문제 해결"
+title:  "StompClient, Sock.js 사용 시 invalidStateError 해결"
 header:
   teaser: 
 categories: 
