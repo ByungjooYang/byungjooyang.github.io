@@ -3,9 +3,9 @@ title:  "Sock.js 사용 시 localhost에서는 연결되나 AWS 서버에 올리
 header:
   teaser: 
 categories: 
-  - 
+  - Sock.js
 tags:
-  -
+  - Sock.js
 ---
 
 Sock.js를 이용해 웹채팅을 구현을 했는데

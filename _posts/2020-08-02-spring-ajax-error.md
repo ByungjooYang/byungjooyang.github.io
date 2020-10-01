@@ -4,8 +4,12 @@ header:
   teaser: 
 categories: 
   - Spring
+  - Ajax
+  - Error
 tags:
   - Spring
+  - Ajax
+  - Error
 ---
 
 불과 엊그제와 어제 spring mvc 프로젝트를 하던 도중 문제를 발견했다.

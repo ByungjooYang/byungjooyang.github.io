@@ -3,9 +3,13 @@ title:  "StompClient, Sock.js 사용 시 invalidStateError 해결"
 header:
   teaser: 
 categories: 
-  - 
+  - Sock.js
+  - StompClient
+  - Error
 tags:
-  -
+  - Sock.js
+  - StompClient
+  - Error
 ---
 
 필자는 스프링에서 채팅방을 구현하던 도중 Stompclient와 sock.js 를 알게되었다.

@@ -3,9 +3,9 @@ title:  "JDBC DataSource 관련 수행속도 차이"
 header:
   teaser: 
 categories: 
-  - 
+  - JDBC
 tags:
-  -
+  - JDBC
 ---
 
 DataSource를 생성하려고 검색을 하다보면

@@ -3,9 +3,9 @@ title:  "Spring MVC에서 에러가 없는데 java resources 에 에러가 뜰 �
 header:
   teaser: 
 categories: 
-  - 
+  - Error
 tags:
-  -
+  - Error
 ---
 
 해당 프로젝트의 properties에 가서 Project Facets로 가서
