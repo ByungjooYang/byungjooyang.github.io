@@ -107,7 +107,7 @@ security:form-login 은 로그인 창 폼을 말하고 login-page를
 
 <img src="/assets/img/20200803/5.2.png">
 
-나 같은 경우 처음에spring-security-5.1.xsd 로 되어있었다.
+나 같은 경우 처음에 spring-security-5.1.xsd 로 되어있었다.
 
 그래서 security:http 태그를 쓸때부터 에러가 떴었는데 
 

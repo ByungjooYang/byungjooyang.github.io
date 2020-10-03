@@ -43,7 +43,7 @@ Useful for test or standalone environments.
 
 BasicDataSource는 J2EE 컨테이너 외부에 실제 연결 풀을 제공한다.
 
-따라서 일반적으로 사용시 BasciDataSource를 사용하는 것이 좋다.
+따라서 일반적으로 사용시 BasicDataSource를 사용하는 것이 좋다.
 
 수행 속도면에서도 BasicDataSource가 빠르고 균일하다.
 
